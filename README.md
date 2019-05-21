@@ -20,7 +20,7 @@ footer: an event
 
 * [DEF CON 858](defconsd.slack.com)
 * [SDHackers](sdhackers.slack.com)
-* [Yacht Club](sd1337.slack.com
+* [Yacht Club](sd1337.slack.com)
 
 ## [Event Calendar]
 
