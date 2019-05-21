@@ -18,9 +18,9 @@ footer: an event
 
 ## Slacks
 
-* [DEF CON 858](defconsd.slack.com)
-* [SDHackers](sdhackers.slack.com)
-* [Yacht Club](sd1337.slack.com)
+* [DEF CON 858](https://defconsd.slack.com)
+* [SDHackers](https://sdhackers.slack.com)
+* [Yacht Club](https://sd1337.slack.com)
 
 ## [Event Calendar]
 
