@@ -9,7 +9,7 @@ footer: an event
 ## Meetups
 
 * [DEF CON 858](https://www.dc858.org/)
-* [OWASP San Diego](https://www.owasp.org/index.php/SanDiego) (Slack)
+* [OWASP San Diego](https://www.owasp.org/index.php/SanDiego)
 
 ## Conferences
 
