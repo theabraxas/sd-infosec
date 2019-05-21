@@ -19,6 +19,7 @@ permalink: /companies/
 ## Products
 
 * [PolySwarm](https://polyswarm.io/)
+* [SkySafe](https://www.skysafe.io/)
 
 ## Security Teams
 
