@@ -27,3 +27,6 @@ github_username:  myhndl
 # Build settings
 markdown: kramdown
 #theme: minima
+
+# Google Analytics
+google_analytics: UA-140501499-1
