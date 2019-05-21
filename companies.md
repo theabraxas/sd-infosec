@@ -9,10 +9,12 @@ permalink: /companies/
 ## Consulting
 
 * [Narf Industries](https://narfindustries.com)
+* [Somerset Recon](https://www.somersetrecon.com/)
 
 ## Research & Development
 
 * [Narf Industries](https://narfindustries.com)
+* [Somerset Recon](https://www.somersetrecon.com/)
 
 ## Products
 
@@ -20,7 +22,7 @@ permalink: /companies/
 
 ## Security Teams
 
-TODO
+* [Qualcomm Product Security](https://www.qualcomm.com/company/product-security)
 
 ## Remote Offices
 
