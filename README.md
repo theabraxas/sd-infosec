@@ -18,6 +18,7 @@ footer: an event
 * (**38 members**) [SDHackers](https://sdhackers.slack.com)
   * for invites, DM: [myhndl](https://twitter.com/myhndl)
 * (**14 members**) [Yacht Club](https://sd1337.slack.com)
+  * for invites, DM: [myhndl](https://twitter.com/myhndl)
 
 ## Conferences
 
