@@ -9,6 +9,7 @@ permalink: /companies/
 ## Consulting
 
 * [Narf Industries](https://narfindustries.com)
+* [Sentek Global](https://sentekglobal.com/)
 * [Somerset Recon](https://www.somersetrecon.com/)
 
 ## Research & Development
@@ -19,18 +20,33 @@ permalink: /companies/
 ## Products
 
 * [AttackIQ](https://www.attackiq.com/)
+* [EdgeWave](https://www.edgewave.com/)
+* [ESET](https://www.eset.com/us/)
+* [MixMode](https://mixmode.ai)
 * [PolySwarm](https://polyswarm.io/)
+* [Proficio](https://www.proficio.com/)
 * [SkySafe](https://www.skysafe.io/)
+* [WebRoot](https://www.webroot.com)
 
 ## Security Teams
 
+* [FICO](https://www.fico.com/)
 * [Qualcomm Product Security](https://www.qualcomm.com/company/product-security)
+* [Teradata](https://www.teradata.com)
 * [Viasat](https://www.viasat.com/)
+
+## Government
+
+* [Booz Allen Hamilton](https://www.boozallen.com/)
+* [MITRE](https://www.mitre.org/)
+* [Northrop Grumman](https://www.northropgrumman.com)
+* [SPAWAR](https://www.public.navy.mil/spawar/Pages/default.aspx)
 
 ## Remote Offices
 
 TODO
 
-## Recruiting
+## Other
 
-TODO
+* https://sandiegobusiness.org/our-economy/cybersecurity
+* https://sdccoe.org/
