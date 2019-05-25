@@ -25,6 +25,7 @@ permalink: /companies/
 ## Security Teams
 
 * [Qualcomm Product Security](https://www.qualcomm.com/company/product-security)
+* [Viasat](https://www.viasat.com/)
 
 ## Remote Offices
 
