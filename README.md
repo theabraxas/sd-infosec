@@ -24,6 +24,9 @@ footer: an event
 
 * [Qualcomm Product Security Summit](https://www.qualcomm.com/company/product-security/resources) (May)
 * [ToorCon](https://sandiego.toorcon.net/) (September)
+* [IEEE Automated Software Engineering (ASE)](https://2019.ase-conferences.org/home) (November 11-15)
+* [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) (November 18-21)
+* 
 
 ### Discontinued?
 
