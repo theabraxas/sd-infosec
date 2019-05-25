@@ -15,6 +15,7 @@ footer: an event
 ## Slacks
 
 * (**46 weekly active members**) [DEF CON 858](https://defconsd.slack.com)
+  * [attend a meeting](https://www.dc858.org/), ask organizers for an invite
 * (**25 weekly active members**) [SDHackers](https://sdhackers.slack.com)
   * for invites, DM: [myhndl](https://twitter.com/myhndl), [CwakrJax](https://twitter.com/@CwakrJax)
 * (**4 weekly active members**) [Yacht Club](https://sd1337.slack.com)
