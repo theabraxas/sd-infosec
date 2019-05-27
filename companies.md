@@ -43,6 +43,7 @@ permalink: /companies/
 * [Leidos](https://www.leidos.com/)
 * [MITRE](https://www.mitre.org/)
 * [Northrop Grumman](https://www.northropgrumman.com)
+* [Qualcomm Government Serivces](https://www.qualcomm.com/)
 * [SPAWAR](https://www.public.navy.mil/spawar/Pages/default.aspx)
 
 ## Remote Offices
