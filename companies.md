@@ -24,6 +24,7 @@ permalink: /companies/
 * [AttackIQ](https://www.attackiq.com/)
 * [EdgeWave](https://www.edgewave.com/)
 * [ESET](https://www.eset.com/us/)
+* [Forcepoint](https://www.forcepoint.com/)
 * [MixMode](https://mixmode.ai)
 * [PolySwarm](https://polyswarm.io/)
 * [Proficio](https://www.proficio.com/)
