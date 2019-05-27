@@ -8,6 +8,8 @@ permalink: /companies/
 
 ## Consulting
 
+* [Bird Rock Systems](https://www.birdrockusa.com/)
+* [Leidos](https://www.leidos.com/)
 * [Narf Industries](https://narfindustries.com)
 * [Sentek Global](https://sentekglobal.com/)
 * [Somerset Recon](https://www.somersetrecon.com/)
@@ -38,6 +40,7 @@ permalink: /companies/
 ## Government
 
 * [Booz Allen Hamilton](https://www.boozallen.com/)
+* [Leidos](https://www.leidos.com/)
 * [MITRE](https://www.mitre.org/)
 * [Northrop Grumman](https://www.northropgrumman.com)
 * [SPAWAR](https://www.public.navy.mil/spawar/Pages/default.aspx)
