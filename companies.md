@@ -6,55 +6,31 @@ permalink: /companies/
 
 # Companies
 
-| Company Name  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Company Name                                       | Consulting | R&D | Product(s) | Corp Security Team | Government |
+| ---------------------------------------------------| ---------- | --- | ---------- | ------------------ | ---------- |
+| [AttackIQ](https://www.attackiq.com/)              |            |     | X          |                    |            |
+| [Bird Rock Systems](https://www.birdrockusa.com/)  | X          |     |            |                    |            |
+| [Booz Allen Hamilton](https://www.boozallen.com/)  | X          | X   |            |                    | X          |
+| [EdgeWave](https://www.edgewave.com/)              |            |     | X          |                    |            |
+| [ESET](https://www.eset.com)                       |            |     | X          |                    |            |
+| [FICO](https://www.fico.com/)                      |            |     |            | X                  |            |
+| [Forcepoint](https://www.forcepoint.com/)          |            |     | X          |                    |            |
+| [Leidos](https://www.leidos.com/)                  | X          |     |            |                    |            |
+| [MITRE](https://www.mitre.org/)                    |            |     |            |                    | X          |
+| [MixMode](https://mixmode.ai)                      |            |     | X          |                    |            |
+| [Narf Industries](https://narfindustries.com/)     | X          | X   |            |                    | X          |
+| [Northrop Grumman](https://www.northropgrumman.com)|            |     |            |                    | X          |
+| [PolySwarm](https://polyswarm.io/)                 |            |     | X          |                    |            |
+| [Proficio](https://www.proficio.com/)              |            |     | X          |                    |            |
+| [Qualcomm](https://www.qualcomm.com/)              |            | X   | X          | X                  | X          |
+| [Sentek Global](https://sentekglobal.com/)         | X          |     |            |                    |            |
+| [SPAWAR](https://www.public.navy.mil/spawar)       |            |     |            |                    | X          |
+| [SkySafe](https://www.skysafe.io/)                 |            |     | X          |                    | X          |
+| [Somerset Recon](https://www.somersetrecon.com/)   | X          | X   |            |                    |            |
+| [Teradata](https://www.teradata.com)               |            |     | X          | X                  |            |
+| [Viasat](https://www.viasat.com/)                  |            |     | X          | X                  | X          |
+| [WebRoot](https://www.webroot.com)                 |            |     | X          |                    |            |
 
-## Consulting
-
-* [Bird Rock Systems](https://www.birdrockusa.com/)
-* [Leidos](https://www.leidos.com/)
-* [Narf Industries](https://narfindustries.com)
-* [Sentek Global](https://sentekglobal.com/)
-* [Somerset Recon](https://www.somersetrecon.com/)
-
-## Research & Development
-
-* [Narf Industries](https://narfindustries.com)
-* [Somerset Recon](https://www.somersetrecon.com/)
-
-## Products
-
-* [AttackIQ](https://www.attackiq.com/)
-* [EdgeWave](https://www.edgewave.com/)
-* [ESET](https://www.eset.com/us/)
-* [Forcepoint](https://www.forcepoint.com/)
-* [MixMode](https://mixmode.ai)
-* [PolySwarm](https://polyswarm.io/)
-* [Proficio](https://www.proficio.com/)
-* [SkySafe](https://www.skysafe.io/)
-* [WebRoot](https://www.webroot.com)
-
-## Security Teams
-
-* [FICO](https://www.fico.com/)
-* [Qualcomm Product Security](https://www.qualcomm.com/company/product-security)
-* [Teradata](https://www.teradata.com)
-* [Viasat](https://www.viasat.com/)
-
-## Government
-
-* [Booz Allen Hamilton](https://www.boozallen.com/)
-* [Leidos](https://www.leidos.com/)
-* [MITRE](https://www.mitre.org/)
-* [Northrop Grumman](https://www.northropgrumman.com)
-* [Qualcomm Government Serivces](https://www.qualcomm.com/)
-* [SPAWAR](https://www.public.navy.mil/spawar/Pages/default.aspx)
-
-## Remote Offices
-
-TODO
 
 ## Other
 
