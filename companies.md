@@ -16,7 +16,7 @@ permalink: /companies/
 | [ESET](https://www.eset.com)                       |            |     | X          |                    |            |
 | [FICO](https://www.fico.com/)                      |            |     |            | X                  |            |
 | [Forcepoint](https://www.forcepoint.com/)          |            |     | X          |                    |            |
-| [Institute for Defense Analyses (IDA)](https://www.ida.org/IDAFFRDCs/CenterforCommunications)||||       | X          |
+| [Institute for Defense Analyses (IDA)](https://www.ida.org/IDAFFRDCs/CenterforCommunications)||X||      | X          |
 | [ISE](https://www.securityevaluators.com/)         | X          | X   |            |                    |            |
 | [Leidos](https://www.leidos.com/)                  | X          |     |            |                    |            |
 | [MITRE](https://www.mitre.org/)                    |            |     |            |                    | X          |
