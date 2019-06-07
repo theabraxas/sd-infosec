@@ -17,6 +17,7 @@ permalink: /companies/
 | [FICO](https://www.fico.com/)                      |            |     |            | X                  |            |
 | [Forcepoint](https://www.forcepoint.com/)          |            |     | X          |                    |            |
 | [Institute for Defense Analyses (IDA)](https://www.ida.org/IDAFFRDCs/CenterforCommunications)||X||      | X          |
+| [Intuit)](https://www.intuit.com/)                 |            |     | X          | X                  |            |
 | [ISE](https://www.securityevaluators.com/)         | X          | X   |            |                    |            |
 | [Leidos](https://www.leidos.com/)                  | X          |     |            |                    |            |
 | [MITRE](https://www.mitre.org/)                    |            |     |            |                    | X          |
