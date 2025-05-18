@@ -17,9 +17,10 @@ footer: an event
 * (**4 weekly active members**) [Yacht Club](https://sd1337.slack.com)
   * for invites, DM: [myhndl](https://twitter.com/myhndl)
 
-## Conferences
+## Major Events & Conferences
 * [Qualcomm Product Security Summit](https://www.qualcomm.com/company/product-security/resources) (May)
-* [BSides San Diego](http://www.bsidessd.org/) (June 2018)
+* [BSides San Diego](http://www.bsidessd.org/) (March)
+* [LayerOne (LA)](https://www.layerone.org/) (May)
 
 ### Previous Events
 * [Linux Security Summit](http://blog.namei.org/2019/05/21/linux-security-summit-2019-north-america-cfp-oss-early-bird-registration/) (August 2019)
