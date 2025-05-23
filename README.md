@@ -19,12 +19,15 @@ footer: an event
 * [BSides San Diego](http://www.bsidessd.org/) (March)
 * [LayerOne (LA)](https://www.layerone.org/) (May)
 
-### Previous Events
+
+# History
+
+## Previous Events
 * [Linux Security Summit](http://blog.namei.org/2019/05/21/linux-security-summit-2019-north-america-cfp-oss-early-bird-registration/) (August 2019)
 * [IEEE Automated Software Engineering (ASE)](https://2019.ase-conferences.org/home) (November 2019)
 * [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) (November 2019)
 
-### Discontinued?
+## Discontinued?
 * [ToorCon](https://sandiego.toorcon.net/) (Last event in 2021?)
 * [SDHackers](https://sdhackers.slack.com) (~70 members) ([myhndl](https://twitter.com/myhndl), [CwakrJax](https://twitter.com/@CwakrJax)) [~2016-2020]
 * [Yacht Club](https://sd1337.slack.com) (~10 members?) ([myhndl](https://twitter.com/myhndl)) [2020?]
