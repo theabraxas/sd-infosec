@@ -8,7 +8,13 @@ footer: an event
 
 ## Meetups
 * [DEF CON 858](https://www.dc858.org/)
-* [OWASP San Diego](https://www.owasp.org/index.php/SanDiego)
+* [OWASP San Diego](https://www.owasp.org/index.php/SanDiego) - Meetup: ~2600 Members
+* [San Diego ISSA](https://www.meetup.com/san-diego-chapter-issa/) - Meetup: ~100 Members
+* [Cloud Security Alliance](https://www.meetup.com/cloud-security-alliance-san-diego/) - Meetup: ~800 Members
+* [Women in Cybersecurity](https://wicyssandiego.org/)
+* [San Diego Cybersecurity for Control Systems](https://www.meetup.com/san-diego-cyber-security-for-control-systems/) - Meetup: ~300 Members (Active?)
+* [Infragard San Diego](https://www.infragardsd.org/) 
+* [ISACA - San Diego](https://isaca-sd.org/)
 
 ## Slacks & Discords
 * (**122 weekly active members**) [DEF CON 858](https://defconsd.slack.com)
