@@ -26,7 +26,7 @@ footer: an event
 
 ### Discontinued?
 * [ToorCon](https://sandiego.toorcon.net/) (Last event in 2021?)
-* [SDHackers](https://sdhackers.slack.com) ([myhndl](https://twitter.com/myhndl), [CwakrJax](https://twitter.com/@CwakrJax)) [~2016-2020]
-* [Yacht Club](https://sd1337.slack.com) ([myhndl](https://twitter.com/myhndl)) [2020?]
+* [SDHackers](https://sdhackers.slack.com) (~70 members) ([myhndl](https://twitter.com/myhndl), [CwakrJax](https://twitter.com/@CwakrJax)) [~2016-2020]
+* [Yacht Club](https://sd1337.slack.com) (~10 members?) ([myhndl](https://twitter.com/myhndl)) [2020?]
 * [DFIR-SD](https://dfir-sd.slack.com) (~100 members) [2020?]
 * [sdsecurity](https://sdsecurity.slack.com) (~100 members) [2020?]
