@@ -7,15 +7,12 @@ footer: an event
 # Events
 
 ## Meetups
-
 * [DEF CON 858](https://www.dc858.org/)
 * [OWASP San Diego](https://www.owasp.org/index.php/SanDiego)
 
 ## Slacks & Discords
 * (**122 weekly active members**) [DEF CON 858](https://defconsd.slack.com)
   * [attend a meeting](https://www.dc858.org/), ask organizers for an invite
-* (**4 weekly active members**) [Yacht Club](https://sd1337.slack.com)
-  * for invites, DM: [myhndl](https://twitter.com/myhndl)
 
 ## Major Events & Conferences
 * [Qualcomm Product Security Summit](https://www.qualcomm.com/company/product-security/resources) (May)
@@ -30,3 +27,6 @@ footer: an event
 ### Discontinued?
 * [ToorCon](https://sandiego.toorcon.net/) (Last event in 2021?)
 * [SDHackers](https://sdhackers.slack.com) ([myhndl](https://twitter.com/myhndl), [CwakrJax](https://twitter.com/@CwakrJax)) [~2016-2020]
+* [Yacht Club](https://sd1337.slack.com) ([myhndl](https://twitter.com/myhndl)) [2020?]
+* [DFIR-SD](https://dfir-sd.slack.com) (~100 members) [2020?]
+* [sdsecurity](https://sdsecurity.slack.com) (~100 members) [2020?]
