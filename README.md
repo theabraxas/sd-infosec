@@ -24,6 +24,7 @@ footer: an event
 * [Qualcomm Product Security Summit](https://www.qualcomm.com/company/product-security/resources) (May)
 * [BSides San Diego](http://www.bsidessd.org/) (March)
 * [LayerOne (LA)](https://www.layerone.org/) (May)
+* [AppSec SoCal](https://planetcybersec.com/061125-conference/) (June)
 
 
 # History
